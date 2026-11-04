@@ -38,32 +38,6 @@ Currently strengthening my foundations in machine learning while exploring NLP, 
 
 **Open to AI/ML, Data Science and Software Engineering internship opportunities.**
 
-## What I've built
-
-### Machine Learning Projects
-
-**1. Heart Disease Prediction**
-- Developed a classification model to predict heart disease.
-- Achieved 87% accuracy and 85% F1-score.
-- Built an interactive application using Streamlit.
-- Focused on preprocessing, classification and model evaluation.
-
-[Repository →](https://github.com/Kazi-Owais/heart_disease)
-
-**2. Placement Prediction System**
-- Built a machine learning application to predict student placement outcomes.
-- Worked on data preprocessing, feature analysis and predictive modelling.
-- Integrated the model into a Streamlit interface.
-
-[Repository →](https://github.com/Kazi-Owais/Placement_Prediction_System)
-
-**3. House Price Prediction**
-- Developed a regression model for estimating house prices.
-- Explored feature relationships, data preprocessing and feature engineering.
-- Experimented with regression techniques and model performance.
-
-[Repository →](https://github.com/Kazi-Owais/house_price_prediction)
-
 ## Beyond ML: Building real products
 
 ### PartyWatch — Published Android Application
