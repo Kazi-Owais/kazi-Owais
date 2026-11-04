@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-label="Workflow: raw data, to model, to shipped product">
+  <rect width="1000" height="180" rx="14" fill="#0B0D10"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <!-- edges -->
+    <path d="M240 90H400M600 90H760" stroke="#232A31" stroke-width="2" stroke-dasharray="4 6"/>
+
+    <!-- node 1 -->
+    <rect x="40" y="45" width="200" height="90" rx="8" fill="#14181D" stroke="#232A31"/>
+    <text x="60" y="76" font-size="12" fill="#8A949E" letter-spacing="2">01</text>
+    <text x="60" y="102" font-size="22" font-weight="700" fill="#E8E6DF">RAW DATA</text>
+    <text x="60" y="122" font-size="13" fill="#8A949E">messy, real, noisy</text>
+
+    <!-- node 2 -->
+    <rect x="400" y="45" width="200" height="90" rx="8" fill="#14181D" stroke="#C6FF3D">
+      <animate attributeName="stroke-opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="420" y="76" font-size="12" fill="#8A949E" letter-spacing="2">02</text>
+    <text x="420" y="102" font-size="22" font-weight="700" fill="#E8E6DF">MODEL</text>
+    <text x="420" y="122" font-size="13" fill="#8A949E">train · tune · evaluate</text>
+
+    <!-- node 3 -->
+    <rect x="760" y="45" width="200" height="90" rx="8" fill="#C6FF3D"/>
+    <text x="780" y="76" font-size="12" fill="#0B0D10" letter-spacing="2">03</text>
+    <text x="780" y="102" font-size="22" font-weight="700" fill="#0B0D10">SHIPPED</text>
+    <text x="780" y="122" font-size="13" fill="#0B0D10">an app people open</text>
+
+    <!-- packets -->
+    <g fill="#C6FF3D">
+      <rect x="-5" y="-5" width="10" height="10">
+        <animateMotion path="M240 90H400" dur="2s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-5" y="-5" width="10" height="10">
+        <animateMotion path="M240 90H400" dur="2s" begin="0.66s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-5" y="-5" width="10" height="10">
+        <animateMotion path="M240 90H400" dur="2s" begin="1.33s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g fill="#FF6B3D">
+      <circle r="5"><animateMotion path="M600 90H760" dur="2s" begin="0s" repeatCount="indefinite"/></circle>
+      <circle r="5"><animateMotion path="M600 90H760" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>
