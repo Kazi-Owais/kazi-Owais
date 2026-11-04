@@ -1,75 +1,174 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm OWAIS KAZI</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 Aspiring Data Scientist and AI Engineer pursuing a B.Sc. in Information Technology. Skilled in Python, Machine Learning, Data Analysis, and building end-to-end ML applications. Seeking internship opportunities to apply data-driven problem-solving and software development skills in real-world projects.
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazi-owais&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="kazi-owais's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=kazi-owais&theme=nightowl&hide_border=true&cache_seconds=86400" alt="kazi-owais's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-owais&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazi-owais&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="OWAIS KAZI's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kazi-owais&theme=nightowl&radius=10" alt="kazi-owais's Activity Graph" />
-</p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://linkedin/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <!---->
+[README (1).md](https://github.com/user-attachments/files/34371883/README.1.md)
+ <div align="center">
+  <img src="assets/header.svg" alt="Owais Kazi — Applied AI/ML Engineer" width="100%">
 </div>
 
-<p align="center"><sub>OWAIS KAZI · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<br>
 
-## Experience
+<h3 align="center">Turning data into intelligence. Turning ideas into products.</h3>
 
-**DotComClub (DCC), Jai Hind College — WebOps &amp; Hackathon Team — Sub Head** · Present
-- Developed and maintained the official DotComClub website using Next.js, React, TypeScript, and Tailwind CSS.
-- Built Convex backend features for event registrations, newsletters, contact forms, polling, and e-waste submissions.
-- Created interactive 3D visuals and UI animations using Three.js / React Three Fiber, Framer Motion, and GSAP; collaborated through Git/GitHub.
+<p align="center">
+  B.Sc. Information Technology · Jai Hind College, Mumbai
+  <br>
+  Aspiring AI/ML Engineer | Building practical machine learning applications
+</p>
 
-**Education**
+<p align="center">
+  <a href="mailto:owaiskazi838@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/owais-kazi-558939242/">LinkedIn</a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.partywatch.mobile">PartyWatch</a>
+</p>
 
-- B.Sc IT — Jai Hind College (2025 – 2028)
-- Commerce with Mathematics &amp; IT (12th Grade)
+---
 
-**Projects**
+## About me
 
-- **Placement Prediction System** — Built an end-to-end machine learning classification system using SVM to predict student placement outcomes, including data preprocessing and feature engineering. Performed exploratory data analysis (EDA), cross-validatio
-- **Heart Disease Prediction System** — Developed a Logistic Regression model for heart disease prediction using clinical data, with comprehensive preprocessing and feature analysis. Achieved 87% accuracy and 85% F1-score through model evaluation and optimizat
-- **House Price Prediction System** — Built a Linear Regression model to predict housing prices using structured real estate data, incorporating feature engineering and data preprocessing. Conducted exploratory data analysis, feature selection, and outlier h
+I'm an IT undergraduate interested in machine learning, data science and AI engineering.
+
+I enjoy understanding problems, exploring datasets, building predictive models and turning those models into usable applications.
+
+My approach goes beyond training a model. I focus on the complete workflow:
+
+- Data collection, cleaning and exploratory analysis.
+- Feature engineering and model development.
+- Model evaluation, experimentation and hyperparameter tuning.
+- Building interfaces and deploying applications.
+
+Currently strengthening my foundations in machine learning while exploring NLP, deep learning and practical AI engineering.
+
+**Open to AI/ML, Data Science and Software Engineering internship opportunities.**
+
+## What I've built
+
+### Machine Learning Projects
+
+**1. Heart Disease Prediction**
+- Developed a classification model to predict heart disease.
+- Achieved 87% accuracy and 85% F1-score.
+- Built an interactive application using Streamlit.
+- Focused on preprocessing, classification and model evaluation.
+
+[Repository →](https://github.com/Kazi-Owais/heart_disease)
+
+**2. Placement Prediction System**
+- Built a machine learning application to predict student placement outcomes.
+- Worked on data preprocessing, feature analysis and predictive modelling.
+- Integrated the model into a Streamlit interface.
+
+[Repository →](https://github.com/Kazi-Owais/Placement_Prediction_System)
+
+**3. House Price Prediction**
+- Developed a regression model for estimating house prices.
+- Explored feature relationships, data preprocessing and feature engineering.
+- Experimented with regression techniques and model performance.
+
+[Repository →](https://github.com/Kazi-Owais/house_price_prediction)
+
+## Beyond ML: Building real products
+
+### PartyWatch — Published Android Application
+
+<a href="https://play.google.com/store/apps/details?id=com.partywatch.mobile">
+  <img src="assets/partywatch.svg" alt="PartyWatch" width="100%">
+</a>
+
+Built and launched PartyWatch, a social watch-party application.
+
+My responsibilities include:
+- Product development and feature planning.
+- React, TypeScript and Ionic Capacitor.
+- Supabase authentication and backend integration.
+- Real-time interactions and YouTube API integration.
+- Product growth, monetization and user experience.
+
+This experience taught me how to build, ship and maintain an application beyond the development environment.
+
+[View on Google Play →](https://play.google.com/store/apps/details?id=com.partywatch.mobile)
+
+## Leadership & collaboration
+
+**WebOps & Hackathon Team — Sub Head**  
+DotComClub, Jai Hind College
+
+Working with a team to develop and maintain the club's digital presence.
+
+- Developing the official website using Next.js, React and TypeScript.
+- Integrating Convex backend functionality for registrations, newsletters, polls and submissions.
+- Building interactive experiences using Three.js, React Three Fiber, Framer Motion and GSAP.
+- Collaborating on technical execution and website development.
+
+## Tech stack
+
+**Languages**
+- Python, SQL, JavaScript, TypeScript, Java
+
+**Data Science & Machine Learning**
+- NumPy, Pandas, Scikit-learn
+- Matplotlib, Seaborn
+- Exploratory Data Analysis
+- Data Preprocessing & Feature Engineering
+- Regression, Classification & Model Evaluation
+
+**Development & Deployment**
+- Streamlit, FastAPI (learning)
+- React, Next.js, Node.js
+- Supabase, Convex
+- Git & GitHub
+
+**Currently exploring**
+- Natural Language Processing
+- Deep Learning
+- LLM Engineering
+- ML Model Deployment & MLOps
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kazi-Owais&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=C6FF3D&text_color=E8E6DF&icon_color=FF6B3D&border_radius=14" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Owais&layout=compact&hide_border=true&bg_color=0B0D10&title_color=C6FF3D&text_color=E8E6DF&border_radius=14" alt="Most used languages">
+</p>
+
+---
+
+<p align="center">
+  <b>Learning continuously. Building consistently. Shipping real products.</b>
+  <br><br>
+  Let's connect and build something meaningful.
+</p>
+
+## projects
+
+<img src="assets/projects.svg" alt="Placement prediction, heart disease prediction (87% accuracy, 85% F1), house price prediction" width="100%">
+
+<p align="center">
+  <a href="https://github.com/Kazi-Owais/Placement_Prediction_System">placement prediction</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Kazi-Owais/heart_disease">heart disease prediction</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Kazi-Owais/house_price_prediction">house price prediction</a>
+</p>
+
+## shipped
+
+<a href="https://play.google.com/store/apps/details?id=com.partywatch.mobile">
+  <img src="assets/partywatch.svg" alt="PartyWatch: watch videos together and earn rewards, on Google Play" width="100%">
+</a>
+
+I build and market it on my own: product, growth, ads, the lot.
+
+## building with a team
+
+**WebOps & Hackathon Team, Sub Head** at DotComClub (DCC), Jai Hind College
+
+- Run the club's official website: Next.js, React, TypeScript, Tailwind CSS.
+- Convex backend for event registrations, newsletters, contact forms, polling and e-waste submissions.
+- 3D visuals and UI animation with Three.js / React Three Fiber, Framer Motion and GSAP.
+
+## toolbox
+
+<img src="assets/stack.svg" alt="Python, SQL, Pandas, NumPy, scikit-learn, Streamlit, JavaScript, TypeScript, React, Three.js, Git" width="100%">
+
+## signal
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=C6FF3D&text_color=E8E6DF&icon_color=FF6B3D&border_radius=14">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B0D10&title_color=C6FF3D&text_color=E8E6DF&border_radius=14">
+</p>
