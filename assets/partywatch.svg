@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="PartyWatch: watch videos together and earn rewards. On Google Play.">
+  <rect width="1000" height="280" rx="14" fill="#0B0D10"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="40" y="60" font-size="13" fill="#C6FF3D" letter-spacing="3">SHIPPED · GOOGLE PLAY</text>
+    <text x="40" y="128" font-size="62" font-weight="700" fill="#E8E6DF" letter-spacing="-1">PartyWatch</text>
+    <text x="40" y="168" font-size="19" fill="#E8E6DF">Watch videos together. Earn while you do.</text>
+
+    <g font-size="14" fill="#E8E6DF">
+      <rect x="40" y="200" width="130" height="34" rx="17" fill="none" stroke="#2C353D"/><text x="105" y="222" text-anchor="middle">Lucky Spins</text>
+      <rect x="186" y="200" width="144" height="34" rx="17" fill="none" stroke="#2C353D"/><text x="258" y="222" text-anchor="middle">Scratch cards</text>
+      <rect x="346" y="200" width="130" height="34" rx="17" fill="none" stroke="#2C353D"/><text x="411" y="222" text-anchor="middle">Leaderboard</text>
+      <rect x="492" y="200" width="154" height="34" rx="17" fill="none" stroke="#2C353D"/><text x="569" y="222" text-anchor="middle">Weekly bonuses</text>
+    </g>
+  </g>
+
+  <!-- wheel -->
+  <circle cx="830" cy="145" r="104" fill="none" stroke="#232A31" stroke-width="2"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 830 145;1440 830 145" keyTimes="0;1"
+      calcMode="spline" keySplines="0.15 0.7 0.2 1" dur="6s" repeatCount="indefinite"/>
+    <path d="M830 145 L920 145 A90 90 0 0 1 893.64 208.64 Z" fill="#C6FF3D"/>
+    <path d="M830 145 L893.64 208.64 A90 90 0 0 1 830 235 Z" fill="#14181D"/>
+    <path d="M830 145 L830 235 A90 90 0 0 1 766.36 208.64 Z" fill="#FF6B3D"/>
+    <path d="M830 145 L766.36 208.64 A90 90 0 0 1 740 145 Z" fill="#14181D"/>
+    <path d="M830 145 L740 145 A90 90 0 0 1 766.36 81.36 Z" fill="#C6FF3D"/>
+    <path d="M830 145 L766.36 81.36 A90 90 0 0 1 830 55 Z" fill="#14181D"/>
+    <path d="M830 145 L830 55 A90 90 0 0 1 893.64 81.36 Z" fill="#FF6B3D"/>
+    <path d="M830 145 L893.64 81.36 A90 90 0 0 1 920 145 Z" fill="#14181D"/>
+  </g>
+  <circle cx="830" cy="145" r="16" fill="#0B0D10" stroke="#C6FF3D" stroke-width="3"/>
+  <polygon points="816,30 844,30 830,56" fill="#E8E6DF"/>
+</svg>

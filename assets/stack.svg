@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="Toolbox: Python, SQL, Pandas, NumPy, scikit-learn, Streamlit, JavaScript, TypeScript, React, Three.js, Git">
+  <defs>
+    <linearGradient id="fl" x1="0" x2="1"><stop offset="0" stop-color="#0B0D10"/><stop offset="1" stop-color="#0B0D10" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fr" x1="1" x2="0"><stop offset="0" stop-color="#0B0D10"/><stop offset="1" stop-color="#0B0D10" stop-opacity="0"/></linearGradient>
+    <g id="row" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700">
+      <text x="20" y="40" fill="#E8E6DF">PYTHON</text><text x="126" y="40" fill="#C6FF3D">/</text>
+      <text x="172" y="40" fill="#E8E6DF">SQL</text><text x="242" y="40" fill="#C6FF3D">/</text>
+      <text x="288" y="40" fill="#E8E6DF">PANDAS</text><text x="394" y="40" fill="#C6FF3D">/</text>
+      <text x="440" y="40" fill="#E8E6DF">NUMPY</text><text x="534" y="40" fill="#C6FF3D">/</text>
+      <text x="580" y="40" fill="#E8E6DF">SCIKIT-LEARN</text><text x="758" y="40" fill="#C6FF3D">/</text>
+      <text x="804" y="40" fill="#E8E6DF">STREAMLIT</text><text x="946" y="40" fill="#C6FF3D">/</text>
+      <text x="992" y="40" fill="#E8E6DF">JAVASCRIPT</text><text x="1146" y="40" fill="#C6FF3D">/</text>
+      <text x="1192" y="40" fill="#E8E6DF">TYPESCRIPT</text><text x="1346" y="40" fill="#C6FF3D">/</text>
+      <text x="1392" y="40" fill="#E8E6DF">REACT</text><text x="1486" y="40" fill="#C6FF3D">/</text>
+      <text x="1532" y="40" fill="#E8E6DF">THREE.JS</text><text x="1662" y="40" fill="#C6FF3D">/</text>
+      <text x="1708" y="40" fill="#E8E6DF">GIT</text><text x="1778" y="40" fill="#C6FF3D">/</text>
+    </g>
+  </defs>
+  <rect width="1000" height="64" rx="14" fill="#0B0D10"/>
+  <path d="M0 0.5H1000M0 63.5H1000" stroke="#232A31"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1824 0" dur="36s" repeatCount="indefinite"/>
+    <use href="#row"/>
+    <use href="#row" x="1824"/>
+  </g>
+  <rect width="90" height="64" fill="url(#fl)"/>
+  <rect x="910" width="90" height="64" fill="url(#fr)"/>
+</svg>

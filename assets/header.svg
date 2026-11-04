@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Owais Kazi, data science and ML engineering">
+  <defs>
+    <clipPath id="wipe">
+      <rect x="30" y="64" height="112" width="0">
+        <animate attributeName="width" calcMode="discrete" begin="0.4s" dur="1.6s" fill="freeze"
+          values="0;58;116;174;232;290;348;406;464;522;1000"
+          keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"/>
+      </rect>
+    </clipPath>
+    <linearGradient id="fadeL" x1="0" x2="1"><stop offset="0" stop-color="#0B0D10"/><stop offset="1" stop-color="#0B0D10" stop-opacity="0"/></linearGradient>
+  </defs>
+
+  <rect width="1000" height="320" rx="14" fill="#0B0D10"/>
+
+  <!-- grid -->
+  <g stroke="#1B2128" stroke-width="1">
+    <path d="M0 220H1000M0 250H1000M0 280H1000"/>
+    <path d="M100 205V320M200 205V320M300 205V320M400 205V320M500 205V320M600 205V320M700 205V320M800 205V320M900 205V320"/>
+  </g>
+
+  <!-- validation curve -->
+  <path d="M40 214 L70 240 L90 226 L120 250 L150 240 L185 262 L215 252 L260 268 L300 261 L350 273 L400 267 L460 276 L520 272 L600 279 L700 276 L800 280 L960 279"
+    fill="none" stroke="#FF6B3D" stroke-width="2" stroke-dasharray="1000" pathLength="1000" stroke-linejoin="round" stroke-linecap="round" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" values="1000;0;0" keyTimes="0;0.6;1" dur="8s" begin="0.6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- training loss -->
+  <path id="loss" d="M40 220 L70 250 L90 232 L120 262 L150 248 L185 270 L215 258 L260 276 L300 266 L350 280 L400 272 L460 283 L520 277 L600 285 L700 281 L800 286 L960 284"
+    fill="none" stroke="#C6FF3D" stroke-width="3" stroke-dasharray="1000" pathLength="1000" stroke-linejoin="round" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="1000;0;0" keyTimes="0;0.6;1" dur="8s" begin="0.4s" repeatCount="indefinite"/>
+  </path>
+  <circle r="6" fill="#C6FF3D">
+    <animateMotion dur="8s" begin="0.4s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.6;1">
+      <mpath href="#loss"/>
+    </animateMotion>
+  </circle>
+
+  <!-- labels -->
+  <text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#C6FF3D" letter-spacing="1">owais@local:~$ whoami</text>
+  <text x="960" y="52" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8A949E">loss ↓</text>
+  <text x="960" y="308" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8A949E">epochs →</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+    <circle cx="44" cy="304" r="4" fill="#C6FF3D"/><text x="56" y="308" fill="#8A949E">train</text>
+    <circle cx="116" cy="304" r="4" fill="#FF6B3D"/><text x="128" y="308" fill="#8A949E">validation</text>
+  </g>
+
+  <!-- name -->
+  <g clip-path="url(#wipe)">
+    <text x="40" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="96" font-weight="700" fill="#E8E6DF" letter-spacing="-2">OWAIS KAZI</text>
+  </g>
+  <rect y="82" width="44" height="76" fill="#C6FF3D">
+    <animate attributeName="x" calcMode="discrete" begin="0.4s" dur="1.6s" fill="freeze"
+      values="40;98;156;214;272;330;388;446;504;562;620" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"/>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" begin="2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+
+  <!-- rotating role -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" fill="#E8E6DF">
+    <text x="40" y="196" opacity="0"><tspan fill="#C6FF3D">&gt; </tspan>data science
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.33;1" dur="9s" begin="2s" repeatCount="indefinite"/></text>
+    <text x="40" y="196" opacity="0"><tspan fill="#C6FF3D">&gt; </tspan>ml / ai engineering
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" begin="2s" repeatCount="indefinite"/></text>
+    <text x="40" y="196" opacity="0"><tspan fill="#C6FF3D">&gt; </tspan>builds &amp; ships products
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.69;0.96;1" dur="9s" begin="2s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
